@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">firs_homework</string>
+    <string name="create_kitty">Собери котика!</string>
+    <string name="name">Введите имя</string>
+    <string name="fluffiness">Пушистость</string>
+    <string name="Playfulness">Игриваотсь</string>
+    <string name="softPaws">Мягкие лапки</string>
+    <string name="longTail">Длинный хвост</string>
+    <string name="food">Любит есть</string>
+    <string name="mouse">Ловит мышей</string>
+    <string name="fat">Толстый</string>
+    <string name="receive">Получить!</string>
+    <string name="text">имя пользователя</string>
+</resources>
